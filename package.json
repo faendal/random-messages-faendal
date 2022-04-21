@@ -1,0 +1,20 @@
+{
+  "name": "random-messages-faendal",
+  "version": "1.0.0",
+  "description": "Creacion de paquete random messages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "faendal <juanjoborrero@yahoo.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
